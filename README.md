@@ -5,13 +5,13 @@
 &label=Profile%20views&color=blueviolet&style=flat" alt="amitkrjha-geek
 " /> </p>
 
-- 🌱 I’m currently learning **competitive programming.**
+- 🌱 currently learning **New Edge Frameworks.**
 
 - 🤝 I’m looking for help with **my life.**
 
-- 👨‍💻 I love photography and photo-manipulation.
+- 👨‍💻 I love philosophy.
 
-- 💬 Ask me about **react,flutter,dsa**
+- 💬 Ask me about **react,flutter,dsa,entrepreneurship,nodejs**
 
 - 📫 How to reach me **click here(https://wa.me/916376592768)**
 
