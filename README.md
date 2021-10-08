@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react,flutter,dsa,entrepreneurship,nodejs**
 
-- 📫 How to reach me **click here(https://wa.me/916376592768)**
+- 📫 How to reach me  ----> **click here(https://wa.me/916376592768)**
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=highcontrast&animation=grow_out_in&quoteCategory=programming)
